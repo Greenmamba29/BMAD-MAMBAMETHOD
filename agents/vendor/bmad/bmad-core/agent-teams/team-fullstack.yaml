@@ -1,0 +1,14 @@
+team:
+  name: "Fullstack Development Team"
+  description: "Complete team for building full-stack applications"
+  agents:
+    - analyst
+    - pm
+    - architect
+    - dev
+    - qa
+    - ux-expert
+  
+  workflows:
+    - greenfield-fullstack
+    - brownfield-fullstack
